@@ -1,7 +1,8 @@
 # Paper Manegement System
 
 the simple gui application for researcher.
-this app is to use TAMMIC.
+
+The purpose of this app is to use TAMMIC.
 TAMMIC is the framework for summarizing.
 
 https://iis-lab.org/misc/paperreading/
@@ -18,4 +19,5 @@ python3 gui.py
 
 ## shortcut 
 \<Command-s> -> save
+
 \<Command-d> -> reset
